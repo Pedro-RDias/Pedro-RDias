@@ -5,10 +5,7 @@
 - 📫 How to reach me ...
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fbab9b0b-81e3-488e-ba67-5b2280341837" data-share-badge-host="https://www.credly.com"></div>
-
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<a href="https://www.credly.com/badges/fbab9b0b-81e3-488e-ba67-5b2280341837/public_url"><img src="./badges/meta-full-stack-engineer-certificate.png"></a> <a href="https://www.credly.com/badges/ea835e38-cc3e-4c61-8749-475a0d2ee3b9/public_url"><img src="./badges/meta-generalist-software-engineer-certificate.png"></a> <a href="https://www.credly.com/badges/af6d0921-75a0-4209-b292-7e49cf9a75d8/public_url"><img src="./badges/google-cybersecurity-certificate.png"></a> <a href="https://www.credly.com/badges/b4b1cdd1-c390-4114-bd0b-ddc3bd842063/public_url"><img src="./badges/google-it-automation-certificate.png"></a> <a href="https://www.credly.com/badges/a93ec355-0130-43b8-b37d-845b6041675a/public_url"><img src="./badges/google-project-management-certificate.2.png"></a>
 <!---
 Pedro-RDias/Pedro-RDias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
