@@ -26,26 +26,19 @@
 <p align="center"><a href="https://www.credly.com/badges/ea835e38-cc3e-4c61-8749-475a0d2ee3b9/public_url"><img height="100rem" width="100rem" src="./badges/meta-generalist-software-engineer-certificate.png"></a> <a href="https://www.credly.com/badges/af6d0921-75a0-4209-b292-7e49cf9a75d8/public_url"><img height="100rem" width="100rem" src="./badges/google-cybersecurity-certificate.png"></a> <a href="https://www.credly.com/badges/b4b1cdd1-c390-4114-bd0b-ddc3bd842063/public_url"><img height="100rem" width="100rem" src="./badges/google-it-automation-certificate.png"></a> <a href="https://www.credly.com/badges/a93ec355-0130-43b8-b37d-845b6041675a/public_url"><img height="100rem" width="100rem" src="./badges/google-project-management-certificate.2.png"></a> <a href="https://www.credly.com/badges/5f1680a1-08be-4747-bc1b-9daf6c3bf8e7/public_url"><img height="100rem" width="100rem" src="./badges/google-data-analytics-certificate.2.png"></a></p>
 
 
-<ul align="center" style="list-style-type: none;" >
+<div align="center"">
 
-<li><a href="https://certificates.cs50.io/b3f78857-3c42-4fa6-99bc-3ee8fd1158ed.png?size=letter">CS50’s Introduction to Computer Science - <em>HarvardX</em>
-</a></li>
+  <p><a href="https://certificates.cs50.io/b3f78857-3c42-4fa6-99bc-3ee8fd1158ed.png?size=letter">CS50’s Introduction to Computer Science - <em>HarvardX</em></a></p>
 
-<li><a href="https://certificates.cs50.io/7155bca1-7aff-4d98-912d-14ec75171685.png?size=letter">CS50’s Web Programming with Python and JavaScript - <em>HarvardX</em>
-</a></li>
+  <p><a href="https://certificates.cs50.io/7155bca1-7aff-4d98-912d-14ec75171685.png?size=letter">CS50’s Web Programming with Python and JavaScript - <em>HarvardX</em></a></p>
 
-<li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/J2L79HNTK3CF">Programming with Google Go Specialization
- - <em>University of California</em>
-</a></li>
+  <p><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/J2L79HNTK3CF">Programming with Google Go Specialization - <em>University of California</em></a></p>
 
-<li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SN2MKMGGRKLK">Blockchain Specialization - <em>University at Buffalo</em>
-</a></li>
+  <p><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SN2MKMGGRKLK">Blockchain Specialization - <em>University at Buffalo</em></a></p>
 
-<li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7RBAURPJFKY2">DevOps on AWS Specialization - <em>AWS</em>
-</a></li>
+  <p><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7RBAURPJFKY2">DevOps on AWS Specialization - <em>AWS</em></a></p>
 
-<li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMK5GP2W6CA3">Building Cloud Computing Solutions at Scale Specialization
- - <em>Duke University</em>
-</a></li>
+  <p><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMK5GP2W6CA3">Building Cloud Computing Solutions at Scale Specialization - <em>Duke University</em></a></p>
 
-<ul>
+</div>
+
