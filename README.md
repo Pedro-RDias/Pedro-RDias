@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,redux,nextjs,vue,nuxtjs,angular,jest,vite,go,py,django,flask,fastapi,cs,dotnet,c,cpp,java,spring,kotlin,androidstudio,rust,solidity,mongodb,postgres,mysql,redis,sqlite,html,css,sass,bootstrap,reactivex,postman,docker,kubernetes,linux,bash,git,githubactions" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,vue,angular,jest,go,py,django,flask,c,cpp,mongodb,postgres,mysql,sqlite,html,css,bootstrap,reactivex,postman,docker,kubernetes,linux,bash,git,githubactions" />
   </a>
 </p>
 
